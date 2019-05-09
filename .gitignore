@@ -547,11 +547,6 @@ local.properties
 # macOS
 .DS_Store
 
-application.port
-application.pid
-generated/
-
 
 *.retry
-docker/gitlab/gitlab
-docker/jenkins/jenkins
+.ssh/config
